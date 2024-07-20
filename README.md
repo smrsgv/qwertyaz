@@ -19,8 +19,7 @@ To install the ready to go keyboard layout, run the installer/setup.exe file
 #### Default
 Once installed, you can select the custom keyboard layout from your language settings and use it to type in English and Azerbaijani without having to switch between different layouts.
 Just use right `alt` (alt+ctrl) to type azerbaijani characters.
-##### Before:
-Switching between US and AZ ketboards:
+##### Before, switching between US and AZ keyboards:
 ![Installation Step 1](images/default_az_latin.png)
 ##### After, no keyboards switching, just use Azerbaijani (Programmers) for both cases:
 ![Without right alt pressed](images/default_english_us.png)
